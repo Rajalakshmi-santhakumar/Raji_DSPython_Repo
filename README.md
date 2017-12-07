@@ -1,4 +1,8 @@
-# Raji_DSPython_Repo
-This is a test repo for GA DS(Python)
+# Data Science Test Repo
 
-Adding a new line
+## Agenda
+
+* **[Class 1]** - *Intro to Data Science*
+* **[Class 2]** - *Pandas and Research Design*
+* **[Class 3]** - *Statistics*
+* **[Class 4]** - *Git and Command line*
